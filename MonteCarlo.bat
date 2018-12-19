@@ -21,3 +21,4 @@ set /a r=1000
 set /a pi=(1000*%hit%*4/%cnt%)
 echo -------------------
 echo pi=!pi:~0,1!.!pi:~1!
+pause
